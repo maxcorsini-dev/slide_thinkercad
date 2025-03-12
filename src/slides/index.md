@@ -4,7 +4,7 @@
 
 <div class="btn btn-warning mt-3 ">Modellazione 3D per Principianti</div>
 
-<img src="images/qrcode.jpg" alt="QR Code" width="20%">
+<img src="images/test.jpg" alt="test" width="20%">
 
 <p class="small mt-5">
   <span class="badge bg-dark me-1 ms-2">M</span> Menu
