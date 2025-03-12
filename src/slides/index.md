@@ -1,6 +1,6 @@
 <!-- .slide: data-state="layout-title no-fragment"  -->
 
-# Template
+# Corso Thinkerpad
 
 <div class="btn btn-warning mt-3 ">raybo.org/slides_template</div>
 
