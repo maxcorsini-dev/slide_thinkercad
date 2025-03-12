@@ -143,7 +143,7 @@ Reveal.on('ready', () => {
 
   let menuHead = document.createElement('div')
   menuHead.className = 'menu-headline'
-  menuHead.innerText = 'Documents'
+  menuHead.innerText = 'Lezioni'
   menuNav.appendChild(menuHead)
 
   Menu.sort((a, b) => {
