@@ -2,12 +2,21 @@
     "filename": "00_01",
     "title": "Welcome" }
 ,{
-    "filename": "01_01",
-    "title": "Prima Lezione - Fondamenti e Interfaccia" }
-,{
     "filename": "demo",
     "title": "Opinionated Reveal.js" }
 ,{
+    "filename": "01_01",
+    "title": "Prima Lezione - Fondamenti e Interfaccia" }
+,{
     "filename": "slides",
     "title": "" }
+,{
+    "filename": "01_02",
+    "title": "Seconda Lezione - Tecniche Avanzate di Modellazione" }
+,{
+    "filename": "01_03",
+    "title": "Terza Lezione - Progetto Finale e Preparazione alla Stampa" }
+,{
+    "filename": "01_04",
+    "title": "Link Utili" }
 ]
